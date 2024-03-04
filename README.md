@@ -1,6 +1,7 @@
 About Project:
 
   Project Name - Multi-Region Infrastructure Deployment using Terraform Modules
+  
   Introduction - This document is renders to help for deploying AWS Services like  VPC, SG, EC2, S3 and RDS by using Terraform Modular concept.
   Prerequisites - AWS Account, IDE(VS Code) Terraform Installed.
   Overview - In this project I design a AWS Infrastructure by deploying Services like VPC, SG, EC2, S3 and RDS each in a separate module, in order to Automate entire Infra and Code Reusability. 
