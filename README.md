@@ -8,9 +8,8 @@ About Project:
   
   Overview - In this project I design a AWS Infrastructure by deploying Services like VPC, SG, EC2, S3 and RDS each in a separate module, in order to Automate entire Infra and Code Reusability. 
   
-  Module Description - SG: In this module i configure the security measures for the instance
-  
-                       VPC: In this module i create a custom vpc for the instance, configure public subnet for EC2 and private subnet for RDS, I also configure Route table, Route table association etc
+  Module Description - SG: In this module i configure the security measures for the instance 
+  VPC: In this module i create a custom vpc for the instance, configure public subnet for EC2 and private subnet for RDS, I also configure Route table, Route table association etc
                        
                        EC2_Instance: In this module i create a Remote Server of Ubuntu linux distribution, In this Server i attached a Custom VPC and a Custom Security group in order to maintain security and networking of the instance
                        
